@@ -1,4 +1,4 @@
-### Setting Up an Email Server Using Cisco Packet Tracer
+## Setting Up an Email Server Using Cisco Packet Tracer
 
 In this lab, I will guide you through the process of setting up an email server in Cisco Packet Tracer, complete with two PCs configured to send and receive emails. Our email users, `user1@gmail.com` and `user2@gmail.com`, will communicate via SMTP and POP3 protocols.
 

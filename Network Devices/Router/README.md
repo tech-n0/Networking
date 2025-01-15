@@ -2,7 +2,7 @@
 
 A router is a networking device that connects multiple networks together and directs data packets between them. Operating primarily at the **Network Layer (Layer 3)** of the OSI model, routers determine the best path for data to travel from the source to the destination across interconnected networks, such as the internet.
 
-![](router.png)
+![](img/router.png)
 ### **How Does a Router Work?**
 
 Routers use **IP (Internet Protocol) addresses** to route data between different networks. When data is sent from one device to another across networks, the router reads the destination IP address in the data packet, determines the best route, and forwards the packet to its next destination.

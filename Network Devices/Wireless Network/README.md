@@ -2,7 +2,7 @@
 
 A wireless network is a type of computer network that uses wireless data connections between network nodes. Wireless networks are based on **radio waves** to connect devices such as laptops, smartphones, and tablets to the internet and to other networks without the need for physical cables.
 
-![](images.png)
+![](img/images.png)
 ### **How Does a Wireless Network Work?**
 
 Wireless networks use **radio frequency (RF) signals** to transmit data between devices. A wireless access point (AP) acts as a central hub, transmitting and receiving signals to and from devices within its range. These signals are then converted into wired signals and sent to the broader network or the internet through a router or switch.

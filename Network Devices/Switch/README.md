@@ -3,7 +3,7 @@
 
 A switch is a fundamental networking device that connects multiple devices within a Local Area Network (LAN). It operates at the **Data Link Layer (Layer 2)** of the OSI model, though some advanced switches also perform at the **Network Layer (Layer 3)**. Switches are designed to receive, process, and forward data to the appropriate device within the network, ensuring efficient communication and resource sharing among connected devices.
 
-![[switch.png]]
+![](img/switch.png)
 
 ### **How Does a Switch Work?**
 

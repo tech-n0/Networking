@@ -2,7 +2,7 @@
 
 An **Access Point (AP)** is a device that creates a **wireless local area network (WLAN)**, typically in an office or large building. It connects to a wired router, switch, or hub via an Ethernet cable and projects a Wi-Fi signal to a designated area. Access points are crucial in expanding the reach of a network, allowing multiple devices to connect wirelessly.
 
-![](accesspoint.png)
+![](img/accesspoint.png)
 ### **How Does an Access Point Work?**
 
 An access point connects to the router or switch via a wired connection and then broadcasts a wireless signal to allow wireless devices to connect to the network. When a wireless device connects to the access point, it effectively becomes part of the local area network, gaining access to the network’s resources and the internet.

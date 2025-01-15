@@ -11,7 +11,7 @@
 - **Advantages**: Simplicity, cost-effectiveness, and easier management.
 - **Disadvantages**: Limited scalability and performance compared to more complex architectures.
 
-![[2-tier.jpg]]
+![](img/2-tier.jpg)
 ### 2. **3-Tier Network Architecture**
 
 A 3-tier architecture consists of three distinct layers: core, distribution, and access. It is designed for larger networks with higher performance and scalability requirements.
@@ -23,7 +23,7 @@ A 3-tier architecture consists of three distinct layers: core, distribution, and
 - **Advantages**: Scalability, redundancy, and improved performance.
 - **Disadvantages**: Higher complexity and cost.
 
-![[3-tier.jpg]]
+![](img/3-tier.jpg)
 ### 3. **Spine-Leaf Architecture**
 
 Spine-leaf is a data center network architecture designed for high-performance and low-latency communication.
@@ -34,7 +34,7 @@ Spine-leaf is a data center network architecture designed for high-performance a
 - **Advantages**: Equal latency, high bandwidth, and scalability.
 - **Disadvantages**: More complex to design and manage.
 
-![[spine-leaf.jpg]]
+![](img/spine-leaf.jpg)
 ### 4. **Wide Area Network (WAN)**
 
 A WAN connects multiple local area networks (LANs) over large geographical areas, often spanning cities, countries, or continents.
@@ -43,8 +43,8 @@ A WAN connects multiple local area networks (LANs) over large geographical areas
 - **Advantages**: Enables long-distance communication and resource sharing.
 - **Disadvantages**: High cost and complexity, potential latency issues.
 
-![[wan.png]]
 
+![](img/wan.png)
 ### 5. **Small Office/Home Office (SOHO) Network**
 
  A SOHO network is a small-scale network setup in homes or small offices, designed to provide basic networking functionalities.
@@ -53,7 +53,7 @@ A WAN connects multiple local area networks (LANs) over large geographical areas
 - **Advantages**: Cost-effective, easy to set up and manage.
 - **Disadvantages**: Limited scalability and performance.
 
-![[SOHO.png]]
+![](img/SOHO.png)
 
 ### 6. **On-Premise Network**
 
@@ -72,7 +72,7 @@ A WAN connects multiple local area networks (LANs) over large geographical areas
 - **Advantages**: Scalability, flexibility, reduced upfront cost, and offloaded maintenance.
 - **Disadvantages**: Dependency on the provider, potential data security concerns.
 
-![[cloud.png]]
+![](img/cloud.png)
 ### 8. **Local Area Network (LAN)**
 
  A LAN is a network that connects devices within a limited area, such as a single building or campus.
@@ -81,4 +81,4 @@ A WAN connects multiple local area networks (LANs) over large geographical areas
 - **Advantages**: High speed, low latency, and easy resource sharing.
 - **Disadvantages**: Limited geographical coverage, requires physical infrastructure
 
-![[lan.jpeg]]
+![](img/lan.jpeg)

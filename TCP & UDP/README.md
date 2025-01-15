@@ -5,7 +5,7 @@ TCP is a *connection-oriented* protocol, meaning that it establishes a reliable 
 
 This level of reliability makes TCP ideal for applications where accuracy and completeness are critical. For example, web browsing, file transfers, and email rely on TCP to guarantee that the data reaches its destination correctly and intact. However, the downside of this reliability is that it can introduce latency and overhead. Establishing and maintaining a connection, along with handling retransmissions, can slow down the transmission speed, especially when dealing with large amounts of data.
 
-![](tcpwebp.png)
+![](img/tcpwebp.png)
 
 ## What is UDP?
 
@@ -13,6 +13,6 @@ On the other hand, UDP is a *connectionless protocol*. It doesn’t establish a 
 
 For instance, real-time applications like video streaming, online gaming, and voice calls often use UDP. In these cases, even if a few data packets are lost during transmission, the user may not notice any significant issues. The focus is on providing a continuous stream of data with minimal delay. The reduced overhead of UDP allows for faster communication, but it sacrifices the reliability that TCP provides.
 
-![](udp.png)
+![](img/udp.png)
 
 Despite their differences, both TCP and UDP are crucial for modern networking. Each has its strengths and weaknesses, and the choice between the two often depends on the specific needs of the application. If you need reliable, accurate delivery of data and can afford the additional delay, TCP is the right choice. If speed and efficiency are more important and occasional data loss is acceptable, UDP may be the better option..

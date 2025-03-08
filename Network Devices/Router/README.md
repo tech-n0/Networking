@@ -16,10 +16,12 @@ Routers use **IP (Internet Protocol) addresses** to route data between different
 5. **Quality of Service (QoS)**: Routers can prioritize certain types of traffic, ensuring that critical applications receive sufficient bandwidth.
 
 
-### **Common Use Cases for Routers**
+### **ARP**
 
-- **Home Networks**: Home routers provide internet connectivity by routing traffic between the home network and the ISP.
-- **Small Businesses**: Routers in small businesses connect the local network to the internet and provide basic security features.
-- **Enterprise Networks**: In larger networks, routers manage traffic between different branches and provide secure connections to external networks
+ARP (Address Resolution Protocol) is like a phone directory for computers on a network. Imagine you know your friend's name but not their phone number you check a directory to find it.
 
-Routers are essential devices in networking, enabling the connection and communication between different networks. Whether in a home, a small business, or a large enterprise, routers ensure that data travels efficiently and securely across networks, forming the backbone of modern internet connectivity.
+Similarly, when a computer wants to communicate with another device on the same network, it knows the **IP address** (like a name) but not the **MAC address** (like a phone number). ARP helps by asking, **"Who has this IP address? Tell me your MAC address!"** The device with that IP responds with its MAC address, and then communication happens.
+
+ARP works at **Layer 2 (Data Link Layer)** but interacts with **Layer 3 (Network Layer)** since it resolves IP addresses to MAC addresses.
+
+![](img/how_arp_works.jpg)
